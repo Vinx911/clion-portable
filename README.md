@@ -1,9 +1,9 @@
-<p align="center"><a href="https://github.com/Vinx911/clion-portable" target="_blank"><img width="100" src="https://github.com/Vinx911/clion-portable/blob/master/res/papp.png"></a></p>
+<p align="center"><a href="https://github.com/Vinx911/clion-portable" target="_blank"><img width="100" src="https://github.com/Vinx911/clion-portable/blob/main/res/papp.png"></a></p>
 
 <p align="center">
   <a href="https://github.com/Vinx911/clion-portable/releases"><img src="https://img.shields.io/github/release/Vinx911/clion-portable?style=flat-square" alt="GitHub release"></a>
   <a href="https://github.com/Vinx911/clion-portable/releases/latest"><img src="https://img.shields.io/github/downloads/Vinx911/clion-portable/total?style=flat-square" alt="Total downloads"></a>
-  <a href="https://github.com/Vinx911/clion-portable/blob/master/LICENSE"><img src="https://img.shields.io/github/license/Vinx911/clion-portable?style=flat-square" alt="License"></a>
+  <a href="https://github.com/Vinx911/clion-portable/blob/main/LICENSE"><img src="https://img.shields.io/github/license/Vinx911/clion-portable?style=flat-square" alt="License"></a>
   <a href="https://goreportcard.com/report/github.com/Vinx911/clion-portable"><img src="https://goreportcard.com/badge/github.com/Vinx911/clion-portable?style=flat-square" alt="Go Report"></a>
 </p>
 
